@@ -1,8 +1,8 @@
-[![MasterHead](https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8,quality-100/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg)
+![MasterHead](https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8,quality-100/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg)
 
 <h1 align="center">Hi 👋, I'm Selim Ben Hadj Braiek ,</h1>
 <h3 align="center">Owner of the startup SoftFire</h3>
-<img align= "right" alt="Coding" width="400" src"https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
+<img align= "right" alt="Coding" width= "400" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=softfiredev&label=Profile%20views&color=0e75b6&style=flat" alt="softfiredev" /> </p>
 
