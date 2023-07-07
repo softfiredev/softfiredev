@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Selim Ben Hadj Braiek ,</h1>
 <h3 align="center">Owner of the startup SoftFire</h3>
-<img align= "right" alt="Coding" width= "400" src="https://www.lambdatest.com/resources/images/news24.gif">
+
 <h3 align="center">My projects I'm working on now</h3>
 <h4 align="center">PixelChain: Application on blockchain to buy and sell NFTs</h4>
 <h4 align="center">Article-IA: Website on blockchain to Article production with the help of artificial intelligence and buying by crypto</h4>
